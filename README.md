@@ -1,5 +1,4 @@
-## Hi there 👋
-Qué miras sapo
+## Qué miras sapo 
 <!--
 **Adriah-nh/Adriah-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
